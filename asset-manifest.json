@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/LAST-WEB-APP/static/css/main.2b1f2522.css",
-    "main.js": "/LAST-WEB-APP/static/js/main.34d005b5.js",
-    "static/js/453.f2e5395d.chunk.js": "/LAST-WEB-APP/static/js/453.f2e5395d.chunk.js",
-    "static/media/LOGO.png": "/LAST-WEB-APP/static/media/LOGO.0269e87ee86bfe03db4f.png",
-    "index.html": "/LAST-WEB-APP/index.html",
-    "main.2b1f2522.css.map": "/LAST-WEB-APP/static/css/main.2b1f2522.css.map",
-    "main.34d005b5.js.map": "/LAST-WEB-APP/static/js/main.34d005b5.js.map",
-    "453.f2e5395d.chunk.js.map": "/LAST-WEB-APP/static/js/453.f2e5395d.chunk.js.map"
+    "main.css": "/FishSilage/static/css/main.2b1f2522.css",
+    "main.js": "/FishSilage/static/js/main.e05fcf7b.js",
+    "static/js/453.f2e5395d.chunk.js": "/FishSilage/static/js/453.f2e5395d.chunk.js",
+    "static/media/LOGO.png": "/FishSilage/static/media/LOGO.0269e87ee86bfe03db4f.png",
+    "index.html": "/FishSilage/index.html",
+    "main.2b1f2522.css.map": "/FishSilage/static/css/main.2b1f2522.css.map",
+    "main.e05fcf7b.js.map": "/FishSilage/static/js/main.e05fcf7b.js.map",
+    "453.f2e5395d.chunk.js.map": "/FishSilage/static/js/453.f2e5395d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b1f2522.css",
-    "static/js/main.34d005b5.js"
+    "static/js/main.e05fcf7b.js"
   ]
 }
